@@ -5,6 +5,8 @@ Goals:
 Security Out of the Box
 Minimalist Only Must have packages light alternatives
 No Package Management support
+Optimised for Size
+
 
 Arch Linux:Web (optimised Arch to run Web Servers)
 Arch Linux:DB  (Optimised Arch to run DBs)
