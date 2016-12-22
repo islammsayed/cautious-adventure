@@ -1,6 +1,6 @@
 FROM alpine:3.4
 
-MAINTAINER Islamo "samo@hubwithme.com"
+MAINTAINER Islam Sayed "samo@hubwithme.com"
 
 ENV NGINX_VERSION 1.10.1
 
